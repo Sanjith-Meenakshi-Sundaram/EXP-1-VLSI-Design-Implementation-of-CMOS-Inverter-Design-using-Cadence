@@ -47,10 +47,7 @@ ii)	Create Schematic Cell view.
 	Make the connections by using fixed narrow wire key
 	Click Check and Save button
 
-![Screenshot (14)](https://github.com/user-attachments/assets/9cf9e8c3-da36-4fe9-9f13-f905422206fa)
-
-
- 
+![Screenshot (14)](https://github.com/user-attachments/assets/9cf9e8c3-da36-4fe9-9f13-f905422206fa) 
 iii)	Creating the Symbol for schematic Cell view
 
 •	In the schematic window, execute 
@@ -64,11 +61,7 @@ iii)	Creating the Symbol for schematic Cell view
 •	Library Name and Cell Name must be same which you have used for schematic. Press OK
 •	Check for the position of pin side.Prss OK
 •	Edit for the shape by Create-Shape-Choose required options to edit.
-
-
 ![Screenshot (16)](https://github.com/user-attachments/assets/21677e6a-e71f-477e-804d-8e09d63e8233)
-
-
 iv)	Creating the new test cell view
 
 •	Go to CIW window, Execute File-New-Cell view
@@ -80,8 +73,6 @@ iv)	Creating the new test cell view
 •	Follow the step 3(ii) d to make the required connections
 ![image](https://github.com/user-attachments/assets/0f1eb390-537e-4915-a9d5-6855883745d4)
 
-
- 
 Analog simulation by SPECTRE.
 •	In test cell view window
 •	Launch – ADE L(Analog Design Environment)
@@ -96,7 +87,7 @@ Analog simulation by SPECTRE.
 
 For Transient Analysis Settings and Output
  
- 
+
  ![image](https://github.com/user-attachments/assets/92d14f32-8ba5-4fed-978a-38c360b8e305)
 ![Screenshot (18)](https://github.com/user-attachments/assets/e6494c94-12a3-466b-9cba-5628982fb7ef)
 
@@ -105,9 +96,6 @@ For Transient Analysis Settings and Output
 
 ![WhatsApp Image 2024-08-28 at 17 38 14_88b0a2e4](https://github.com/user-attachments/assets/63a8ef01-feea-4c0c-ad28-eff50f22392d)
 
-
-
- 
 
 Results:
 1.	Successfully designed the CMOS inverter schematic using Cadence EDA tools.
